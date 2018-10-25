@@ -1,8 +1,7 @@
 .header {
     display: flex;
     height: 5rem;
-    width: 100%;
-    background-color: grey;
+    background-color: #6984a0ab;
     align-items: center;
     padding-left: 10px;
     padding-right: 10px;
@@ -11,5 +10,9 @@
 .header-button {
     margin-right: 10px;
 
+}
+
+.button {
+    color: red;
 }
 
